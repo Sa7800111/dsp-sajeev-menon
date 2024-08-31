@@ -1,0 +1,1 @@
+{"top_2_continous_features": ["SalePrice", "OverallQual"], "top_2_categorical_features": ["Neighborhood", "Exterior2nd"]}
